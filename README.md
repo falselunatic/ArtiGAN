@@ -1,5 +1,5 @@
 # ArtiGAN
-Our Project generates Monet-style images using a Generative Adversarial Network (GAN) consisting of a generator and discriminator neural network. Also, It contains some additional features like Chatbot which tells you about what actually Monet-style images are, along with feature of Live image recognition for generating its images using GAN architecture.
+Our Project generates Monet-style images using a Generative Adversarial Network (GAN) consisting of a generator and discriminator neural network. Also, It contains some additional features like Chatbot which tells you about what actually Monet-style images are, along with feature of Object Detection for generating its images using GAN architecture.
 <a name="readme-top"></a>
 
 <br />
