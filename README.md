@@ -169,15 +169,6 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 </a>
 
 
-## Contributors
-
-<br>
-<a href="https://github.com/falselunatic/ArtiGAN/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=falselunatic/ArtiGAN" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Happy Coding
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
