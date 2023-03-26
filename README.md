@@ -118,11 +118,11 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 ```
 
 ├── ArtiGAN
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   
+│   ├── ARTIGAN.ipynb
+│   ├── Chatbot
+│       ├── main.py
+│   ├── Camera Capture
+│       ├── main.py
 ├── Images
 
 ```
