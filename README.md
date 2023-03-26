@@ -46,7 +46,7 @@ Our Project generates Monet-style images using a Generative Adversarial Network 
     <li><a href="#technologies-used">Technologies Used</a></li>
     <li><a href="#glimpses">Glimpses</a></li>
     <li><a href="#project-specifications">Project Specifications</a></li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#quantitative-results">Quantitative Results</a></li>
     <li><a href="#happy-coding">Happy Coding</a></li>
   </ol>
 </details>
@@ -142,7 +142,25 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 
 ## Glimpses
 
+![2023-03-26](https://user-images.githubusercontent.com/97685305/227761697-a107d09b-42df-48da-9efa-64e15b711c8c.png)
 
+---
+
+![WhatsApp Image 2023-03-26 at 11 02 15 AM (1)](https://user-images.githubusercontent.com/97685305/227761715-3d79b488-4741-4a49-85db-cbabeed6440f.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-26 at 11 02 14 AM](https://user-images.githubusercontent.com/97685305/227761711-6ad0c141-8231-4b31-b4c2-f54e22a62944.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-26 at 11 02 16 AM (1)](https://user-images.githubusercontent.com/97685305/227761725-4652824f-6850-4f82-afd0-5b9ee46edea1.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-26 at 11 02 17 AM](https://user-images.githubusercontent.com/97685305/227761727-be896027-da7d-4e30-9de2-012e2040e3a1.jpeg)
+
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,14 +176,27 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Quantitative-results
+
+- <b> Fake score: 0.42 </b>
+- <b> Real score: 0.91 </b>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Check this for more info
-<a href="#">
+<a href="https://www.canva.com/design/DAFeN5wTpcE/BsQTEaI_W3e0nRhLrUefOw/view?utm_content=DAFeN5wTpcE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <i> Check the Presentation </i>
 </a>
 </br>
 
-<a href="#">
-  <i> Video Explanation </i>
+<a href="https://www.canva.com/design/DAFeIVzdPX8/JhyNz6ZdGcX7x37YeVu_zg/view?utm_content=DAFeIVzdPX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <i> Check the Project Report</i>
+</a>
+</br>
+
+<a href="https://www.loom.com/share/ca245e62a9bf4b98860ab89580e5e77a">
+  <i> Video Explanation of Chatbot</i>
 </a>
 
 
