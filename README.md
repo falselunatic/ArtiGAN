@@ -163,6 +163,20 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 
 ---
 
+- Generated Images Getting Stored In Drive
+
+https://user-images.githubusercontent.com/97685305/228123626-123ba127-573f-4dbe-a7d8-d0733c8f09ae.mp4
+
+---
+
+- Capturing Real-Time Images & Generating Their Monet Style Images
+
+https://user-images.githubusercontent.com/97685305/228123835-b9292aa7-88a7-4b61-9b61-f2ed87498e4e.mp4
+
+---
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -186,7 +200,7 @@ By training the GAN on a dataset of Monet's paintings, the generator can learn t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Check this for more info
-<a href="https://www.canva.com/design/DAFeN5wTpcE/BsQTEaI_W3e0nRhLrUefOw/view?utm_content=DAFeN5wTpcE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<a href="https://www.canva.com/design/DAFeTp8wkRk/kqYb7S1daGAzYIB26KR95g/view?utm_content=DAFeTp8wkRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <i> Check the Presentation </i>
 </a>
 </br>
