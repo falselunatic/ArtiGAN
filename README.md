@@ -200,12 +200,12 @@ https://user-images.githubusercontent.com/97685305/228123835-b9292aa7-88a7-4b61-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Check this for more info
-<a href="https://www.canva.com/design/DAFeTp8wkRk/kqYb7S1daGAzYIB26KR95g/view?utm_content=DAFeTp8wkRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<a href="https://www.canva.com/design/DAFkrDYVaUM/ZluAzaySjf-OVOGUUoirLQ/view?utm_content=DAFkrDYVaUM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <i> Check the Presentation </i>
 </a>
 </br>
 
-<a href="https://www.canva.com/design/DAFeIVzdPX8/JhyNz6ZdGcX7x37YeVu_zg/view?utm_content=DAFeIVzdPX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<a href="https://www.canva.com/design/DAFkrKxfET4/nC4k03dMzRFcqPgb2g9oPA/view?utm_content=DAFkrKxfET4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <i> Check the Project Report</i>
 </a>
 </br>
